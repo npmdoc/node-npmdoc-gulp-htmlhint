@@ -1,32 +1,32 @@
 <svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="462" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 20:51:59 +0000    22638 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 20:51:59 +0000      587 bytes  Changelog.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 20:51:59 +0000     1049 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 20:51:59 +0000     2616 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 20:51:59 +0000     5686 bytes  index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 20:51:59 +0000     2530 bytes  package.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 20:51:59 +0000      139 bytes  test/fixtures/invalid.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test1.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test10.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test11.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test12.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test13.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test14.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test15.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test16.html</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test17.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test2.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test3.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test4.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test5.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test6.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test7.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test8.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/morethan16/test9.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 20:51:59 +0000      144 bytes  test/fixtures/valid.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 20:51:59 +0000       25 bytes  test/htmlhintrc.json</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 20:51:59 +0000     7414 bytes  test/main.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 02:18:27 +0000    22638 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 02:18:27 +0000      587 bytes  Changelog.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 02:18:27 +0000     1049 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 02:18:27 +0000     2616 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 02:18:27 +0000     5686 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 02:18:27 +0000     2530 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 02:18:27 +0000      139 bytes  test/fixtures/invalid.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test1.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test10.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test11.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test12.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test13.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test14.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test15.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test16.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test17.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test2.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test3.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test4.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test5.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test6.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test7.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test8.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/morethan16/test9.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 02:18:27 +0000      144 bytes  test/fixtures/valid.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 02:18:27 +0000       25 bytes  test/htmlhintrc.json</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 02:18:27 +0000     7414 bytes  test/main.js</tspan>
 </text>
 </svg>
